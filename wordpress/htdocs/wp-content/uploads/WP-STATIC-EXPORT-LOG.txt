@@ -1,0 +1,570 @@
+2020-07-22 10:34:57
+PHP VERSION 7.4.7
+OS VERSION Windows NT DESKTOP-AO7UNU8 10.0 build 18363 (Windows 10) AMD64
+WP VERSION 5.4.2
+WP URL http://localhost:82/wordpress
+WP SITEURL http://localhost:82/wordpress
+WP HOME http://localhost:82/wordpress
+WP ADDRESS http://localhost:82/wordpress
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://poojadas05.github.io/dasodyddey/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache
+Active plugins:
+all-in-one-seo-pack/all_in_one_seo_pack.php
+all-in-one-wp-migration/all-in-one-wp-migration.php
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+openssl
+SimpleXML
+xml
+xmlreader
+xmlwriter
+apache2handler
+curl
+fileinfo
+gd
+imap
+mbstring
+exif
+mysqli
+Phar
+pdo_mysql
+xmlrpc
+Zend OPcache
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+SAVING / to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/19/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/
+SAVING /2020/07/19/hello-world/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/19/hello-world/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/
+SAVING /2020/07/22/kjghkjjnkljlkj/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/22/kjghkjjnkljlkj/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /author/das/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+SAVING /category/uncategorized/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /author/das/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+SAVING /category/uncategorized/page/1 to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+SAVING /page/1 to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/
+Adding discovered URL: /sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+Adding discovered URL: /category/uncategorized/
+SAVING /sample-page/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/\/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/\/sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/
+BAD RESPONSE STATUS (404): /wordpress/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/
+BAD RESPONSE STATUS (404): /wordpress/2020/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/07/
+BAD RESPONSE STATUS (404): /wordpress/2020/07/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/07/19/
+BAD RESPONSE STATUS (404): /wordpress/2020/07/19/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/07/19/hello-world/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/19/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/
+SAVING /wordpress/2020/07/19/hello-world/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wordpress/2020/07/19/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/07/22/
+BAD RESPONSE STATUS (404): /wordpress/2020/07/22/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/
+SAVING /wordpress/2020/07/22/kjghkjjnkljlkj/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wordpress/2020/07/22/kjghkjjnkljlkj/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/sample-page/
+Adding discovered URL: /sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+Adding discovered URL: /category/uncategorized/
+SAVING /wordpress/sample-page/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wordpress/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\fonts\NonBreakingSpaceOverride.woff
+SAVING /wp-content/themes/twentynineteen\fonts\NonBreakingSpaceOverride.woff to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\fonts/NonBreakingSpaceOverride.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\fonts\NonBreakingSpaceOverride.woff2
+SAVING /wp-content/themes/twentynineteen\fonts\NonBreakingSpaceOverride.woff2 to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\fonts/NonBreakingSpaceOverride.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\js\customize-controls.js
+SAVING /wp-content/themes/twentynineteen\js\customize-controls.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\js\customize-preview.js
+SAVING /wp-content/themes/twentynineteen\js\customize-preview.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\js\priority-menu.js
+SAVING /wp-content/themes/twentynineteen\js\priority-menu.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\js/priority-menu.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentynineteen\js\skip-link-focus-fix.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\js\touch-keyboard-navigation.js
+SAVING /wp-content/themes/twentynineteen\js\touch-keyboard-navigation.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen\js/touch-keyboard-navigation.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\package-lock.json
+SAVING /wp-content/themes/twentynineteen\package-lock.json to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/package-lock.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\postcss.config.js
+SAVING /wp-content/themes/twentynineteen\postcss.config.js to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/postcss.config.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\print.css
+SAVING /wp-content/themes/twentynineteen\print.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/print.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\screenshot.png
+SAVING /wp-content/themes/twentynineteen\screenshot.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/screenshot.png
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\style-editor-customizer.css
+NOT SAVING EMTPY FILE /wp-content/themes/twentynineteen\style-editor-customizer.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\style-editor.css
+SAVING /wp-content/themes/twentynineteen\style-editor.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/style-editor.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\style-rtl.css
+SAVING /wp-content/themes/twentynineteen\style-rtl.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/style-rtl.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen\style.css
+SAVING /wp-content/themes/twentynineteen\style.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/style.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\07\2020-landscape-1-1024x656.png
+SAVING /wp-content/uploads\2020\07\2020-landscape-1-1024x656.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/uploads\2020\07/2020-landscape-1-1024x656.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\07\2020-landscape-1-150x150.png
+SAVING /wp-content/uploads\2020\07\2020-landscape-1-150x150.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/uploads\2020\07/2020-landscape-1-150x150.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\07\2020-landscape-1-300x192.png
+SAVING /wp-content/uploads\2020\07\2020-landscape-1-300x192.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/uploads\2020\07/2020-landscape-1-300x192.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\07\2020-landscape-1-768x492.png
+SAVING /wp-content/uploads\2020\07\2020-landscape-1-768x492.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/uploads\2020\07/2020-landscape-1-768x492.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\07\2020-landscape-1.png
+SAVING /wp-content/uploads\2020\07\2020-landscape-1.png to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/uploads\2020\07/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/
+Adding discovered URL: /2020/07/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /author/das/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/19/hello-world/
+SAVING /2020/07/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/19/hello-world/feed/
+SAVING /2020/07/19/hello-world/feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/19/hello-world/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/22/kjghkjjnkljlkj/feed/
+SAVING /2020/07/22/kjghkjjnkljlkj/feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/22/kjghkjjnkljlkj/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/das/
+Adding discovered URL: /author/das/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/das/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentynineteen/style.css
+Adding discovered URL: /wp-content/themes/twentynineteen/print.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /2020/07/22/kjghkjjnkljlkj/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/07/19/hello-world/
+Adding discovered URL: /2020/07/
+SAVING /author/das/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/author/das/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/feed/
+SAVING /sample-page/feed/ to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/sample-page/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen/print.css
+SAVING /wp-content/themes/twentynineteen/print.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/print.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentynineteen/style.css
+SAVING /wp-content/themes/twentynineteen/style.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-content/themes/twentynineteen/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/theme.min.css
+SAVING /wp-includes/css/dist/block-library/theme.min.css to C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/wp-includes/css/dist/block-library/theme.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Uploading C:\\Bitnami\\wordpress-5.4.2-1\\apps\\wordpress\\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/19/hello-world/feed/index.html to C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/19/hello-world/feed/index.html in GitHub
+API response code 200
+API response body {"errors":[{"message":"Parse error on \"\\\"\" (error) at [3, 24]","locations":[{"line":3,"column":24}]}]}
+Creating C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs/wp-content/uploads/wp-static-html-output-1595414097/2020/07/19/hello-world/feed/index.html in GitHub
+API response code 400
+API response body 
+<html>
+  <head>
+    <meta content="origin" name="referrer">
+    <title>Bad request &middot; GitHub</title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f6f8fa;
+        color: rgba(0, 0, 0, 0.5);
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
+      a { text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
+      p { margin: 20px 0 40px; }
+      #s { margin-top: 35px; }
+      #s a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="c">
+      <h1>Whoa there!</h1>
+      <p>You have sent an invalid request. <br><br>
+        Please do not send this request again.
+      </p>
+      <div id="s">
+        <a href="https://support.github.com">Contact Support</a> &mdash;
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+    </div>
+  </body>
+</html>
+BAD RESPONSE STATUS FROM API (400)
+Deployment: error encountered
+Exception: BAD RESPONSE STATUS FROM API (400) in C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\SitePublisher.php:2
+Stack trace:
+#0 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_SitePublisher->checkForValidResponses()
+#1 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->createFileInGitHub()
+#2 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->upload_files()
+#3 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_GitHub->__construct()
+#4 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\Dispatcher.php(2): require_once('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-content\plugins\static-html-output-plugin\wp2static.php(17): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-settings.php(371): include_once('C:\\Bitnami\\word...')
+#7 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-config.php(105): require_once('C:\\Bitnami\\word...')
+#8 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-load.php(37): require_once('C:\\Bitnami\\word...')
+#9 C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs\wp-admin\admin-ajax.php(22): require_once('C:\\Bitnami\\word...')
+#10 {main}

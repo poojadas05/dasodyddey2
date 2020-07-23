@@ -1,0 +1,14 @@
+/2020/07/
+/2020/07/19/hello-world/feed/
+/2020/07/22/kjghkjjnkljlkj/feed/
+/author/das/
+/category/uncategorized/feed/
+/comments/feed/
+/feed/
+/sample-page/feed/
+/wp-content/themes/twentynineteen/print.css
+/wp-content/themes/twentynineteen/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-includes/css/dist/block-library/theme.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed
